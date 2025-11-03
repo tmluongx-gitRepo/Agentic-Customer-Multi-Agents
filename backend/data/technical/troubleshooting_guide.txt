@@ -1,0 +1,246 @@
+TROUBLESHOOTING COMMON ISSUES
+
+Type: Documentation
+
+FREQUENTLY ENCOUNTERED PROBLEMS AND SOLUTIONS
+
+1. LOGIN ISSUES
+
+Problem: Can't log in to account
+Solutions:
+- Verify you're using the correct email address
+- Check if Caps Lock is on
+- Try resetting your password
+- Clear browser cookies and cache
+- Try a different browser or incognito mode
+- Check if your account is locked (too many failed attempts)
+- Wait 15 minutes if account is temporarily locked
+
+Problem: "Invalid credentials" error
+Solutions:
+- Double-check email and password
+- Ensure no extra spaces before/after
+- Try password reset
+- Check if account has been deactivated
+- Contact support if issue persists
+
+Problem: Two-Factor Authentication not working
+Solutions:
+- Ensure your device time is synchronized
+- Try the backup code provided during 2FA setup
+- Regenerate 2FA codes in account settings
+- Use authenticator app instead of SMS
+- Contact support to disable 2FA temporarily
+
+2. FILE UPLOAD ISSUES
+
+Problem: File upload fails or times out
+Solutions:
+- Check file size (max 100MB for Pro, 500MB for Enterprise)
+- Verify internet connection stability
+- Try uploading smaller batches
+- Use wired connection instead of WiFi
+- Clear browser cache
+- Try different browser
+- Compress files before uploading
+- Check if file name contains special characters
+
+Problem: "File type not supported" error
+Solutions:
+- Check supported file types in documentation
+- Convert file to supported format
+- Compress file into ZIP if needed
+- Contact support for custom format support (Enterprise)
+
+3. PERFORMANCE ISSUES
+
+Problem: Application running slow
+Solutions:
+- Close unnecessary browser tabs
+- Clear browser cache and cookies
+- Disable browser extensions temporarily
+- Check internet connection speed (minimum 5 Mbps recommended)
+- Try using the desktop app instead of browser
+- Upgrade your browser to latest version
+- Close other bandwidth-intensive applications
+- Contact your IT department about firewall/proxy issues
+
+Problem: Page not loading or stuck
+Solutions:
+- Refresh the page (Ctrl+R or Cmd+R)
+- Hard refresh (Ctrl+Shift+R or Cmd+Shift+R)
+- Clear cache and try again
+- Check browser console for errors (F12)
+- Try incognito/private mode
+- Update browser to latest version
+- Check system status page: status.advancedcustomerservice.ai
+
+4. COLLABORATION ISSUES
+
+Problem: Real-time updates not appearing
+Solutions:
+- Refresh the page
+- Check internet connection
+- Ensure WebSocket connections are not blocked by firewall
+- Ask IT to whitelist *.advancedcustomerservice.ai
+- Try different network (e.g., mobile hotspot)
+- Check if browser extensions are blocking updates
+
+Problem: Can't see team member's changes
+Solutions:
+- Verify team member saved their changes
+- Refresh your view
+- Check if you have the latest version
+- Ensure you have proper permissions
+- Contact team member to confirm they're in the same project
+
+5. NOTIFICATION ISSUES
+
+Problem: Not receiving email notifications
+Solutions:
+- Check spam/junk folder
+- Add noreply@advancedcustomerservice.ai to contacts
+- Verify email notification settings in account preferences
+- Check if emails are being filtered by IT department
+- Update email address if it's incorrect
+- Wait up to 5 minutes for notifications (not instant)
+
+Problem: Too many notifications
+Solutions:
+- Adjust notification preferences in Settings
+- Mute specific projects or channels
+- Set "Do Not Disturb" hours
+- Choose digest mode instead of real-time
+- Unsubscribe from specific notification types
+
+6. MOBILE APP ISSUES
+
+Problem: App crashes or freezes
+Solutions:
+- Force close and restart the app
+- Update to latest app version
+- Clear app cache (Settings > Apps > Clear Cache)
+- Ensure sufficient storage space on device
+- Restart your mobile device
+- Reinstall the app if problem persists
+- Check if your device OS is supported
+
+Problem: Offline mode not working
+Solutions:
+- Ensure offline mode is enabled in app settings
+- Open items while online to cache them
+- Check available storage space
+- Sync data manually before going offline
+- Update app to latest version
+
+7. INTEGRATION ISSUES
+
+Problem: Slack integration not working
+Solutions:
+- Reconnect Slack in Settings > Integrations
+- Check Slack workspace permissions
+- Verify bot is added to correct channels
+- Re-authorize the integration
+- Check if Slack tokens have expired
+- Contact support for server-side issues
+
+Problem: Google Drive sync issues
+Solutions:
+- Reauthorize Google account
+- Check Google Drive storage quota
+- Verify file permissions in Google Drive
+- Ensure files aren't locked by another app
+- Try manual sync
+- Check Google Workspace admin restrictions
+
+8. API ISSUES
+
+Problem: API calls returning errors
+Solutions:
+- Verify API key is valid and not expired
+- Check API rate limits (varies by plan)
+- Ensure proper authentication headers
+- Review API documentation for correct endpoints
+- Check API status page
+- Validate request payload format
+- Use correct HTTP method (GET, POST, PUT, DELETE)
+
+Problem: API rate limit exceeded
+Solutions:
+- Implement exponential backoff
+- Optimize API calls (batch requests)
+- Upgrade plan for higher rate limits
+- Contact sales for custom rate limits (Enterprise)
+- Monitor API usage in dashboard
+
+9. BILLING ISSUES
+
+Problem: Payment declined
+Solutions:
+- Verify card information is correct
+- Check card expiration date
+- Ensure sufficient funds available
+- Contact your bank about international charges
+- Try alternative payment method
+- Update billing address
+- Contact billing support: billing@advancedcustomerservice.ai
+
+Problem: Incorrect invoice amount
+Solutions:
+- Review detailed invoice breakdown
+- Check for pro-rated charges from plan changes
+- Verify add-on services
+- Review any credits or discounts applied
+- Contact billing support with invoice number
+
+10. SECURITY CONCERNS
+
+Problem: Suspicious account activity
+Immediate Actions:
+1. Change your password immediately
+2. Enable two-factor authentication
+3. Review connected devices and sessions
+4. Revoke access for unrecognized devices
+5. Check audit log for unauthorized changes
+6. Contact security team: security@advancedcustomerservice.ai
+7. Review and update recovery email and phone
+
+Problem: Locked out of account
+Solutions:
+- Use password reset link
+- Try recovery email or phone
+- Contact support with account verification
+- Provide government ID if necessary (secure process)
+- Check if account was suspended (check email for notification)
+
+STILL NEED HELP?
+
+If these solutions don't resolve your issue:
+
+1. Check Status Page:
+Visit status.advancedcustomerservice.ai for known issues
+
+2. Search Documentation:
+help.advancedcustomerservice.ai has comprehensive guides
+
+3. Contact Support:
+- Chat: Available in app (bottom right corner)
+- Email: support@advancedcustomerservice.ai
+- Phone: +1 (555) 123-4567 (Enterprise only)
+- Response time: 24 hours (email), 1 hour (chat)
+
+4. Community Forum:
+community.advancedcustomerservice.ai
+- Search existing solutions
+- Ask the community
+- Connect with other users
+
+When contacting support, please provide:
+- Account email or ID
+- Description of the issue
+- Steps to reproduce
+- Screenshots or screen recording
+- Browser and OS version
+- Error messages (exact text)
+- When the issue started
+

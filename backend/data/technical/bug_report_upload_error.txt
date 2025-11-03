@@ -1,0 +1,108 @@
+BUG REPORT: FILE UPLOAD ERROR 500
+
+Bug ID: BUG-2025-1103
+Status: RESOLVED
+Priority: High
+Reported: November 1, 2025
+Resolved: November 2, 2025
+Type: Bug Report
+
+DESCRIPTION:
+Users experiencing intermittent HTTP 500 errors when uploading files larger than 50MB through the web interface.
+
+AFFECTED VERSIONS:
+- Web App: v3.2.1
+- API: v2.8.0
+
+SYMPTOMS:
+- File upload progress bar reaches 100%
+- "Internal Server Error (500)" displayed
+- File does not appear in file list
+- No error details shown to user
+- Occurs approximately 30% of the time for files > 50MB
+
+REPRODUCTION STEPS:
+1. Log in to web application
+2. Navigate to any project
+3. Attempt to upload a file larger than 50MB
+4. Wait for upload to complete
+5. Error occurs after progress reaches 100%
+
+ENVIRONMENT:
+- Browsers affected: Chrome, Firefox, Safari
+- OS affected: Windows, macOS, Linux
+- Network: Both WiFi and wired connections
+- Plans affected: Pro and Enterprise
+
+ROOT CAUSE:
+- Backend timeout set to 30 seconds for upload processing
+- Large files taking longer than 30 seconds to process antivirus scan
+- No retry logic implemented for timeout scenarios
+- Error not being properly logged or communicated to frontend
+
+WORKAROUND:
+Users can:
+1. Split large files into smaller chunks (< 50MB each)
+2. Use the desktop application which has longer timeout
+3. Use the mobile app for uploads
+4. Compress files before uploading
+5. Retry upload 2-3 times (may eventually succeed)
+
+RESOLUTION:
+The following fixes were implemented:
+
+Backend Changes:
+- Increased upload timeout from 30 to 120 seconds
+- Implemented asynchronous processing for antivirus scans
+- Added retry logic with exponential backoff
+- Improved error logging and monitoring
+
+Frontend Changes:
+- Better error messages for users
+- Automatic retry for timeout errors (up to 3 attempts)
+- Progress indicator for post-upload processing
+- Option to background large uploads
+
+Configuration Changes:
+- Adjusted load balancer timeout settings
+- Updated CDN cache rules
+- Increased worker pool size for file processing
+
+TESTING:
+- Automated tests added for large file uploads
+- Load testing with files up to 500MB
+- Tested across all supported browsers
+- Verified with 100 test uploads (0% failure rate)
+
+DEPLOYMENT:
+- Rolled out to production on November 2, 2025
+- No downtime required
+- Monitoring shows significant improvement
+- Error rate decreased from 30% to < 0.1%
+
+RELATED BUGS:
+- BUG-2025-1087: Timeout issues with API uploads
+- BUG-2025-1095: Memory spike during file processing
+
+CUSTOMER IMPACT:
+- Approximately 500 users affected
+- 1,200 failed upload attempts logged
+- Email sent to all affected customers
+- In-app notification posted
+
+PREVENTION:
+To prevent similar issues:
+- Implement better timeout handling across all endpoints
+- Add comprehensive upload testing to CI/CD pipeline
+- Set up alerts for elevated error rates
+- Review all timeout configurations quarterly
+- Improve error messaging for all user-facing errors
+
+NOTES:
+This issue was initially reported through customer support and escalated within 2 hours. Thanks to the QA team for rapid reproduction and testing.
+
+CONTACT:
+For questions about this bug:
+- Technical Lead: tech-lead@advancedcustomerservice.ai
+- Support Team: support@advancedcustomerservice.ai
+

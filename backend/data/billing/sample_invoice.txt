@@ -1,0 +1,57 @@
+INVOICE SAMPLE - CUSTOMER ACCOUNT
+
+Type: Dynamic Document
+
+INVOICE #INV-2025-11-00123
+Date: November 1, 2025
+Due Date: November 8, 2025
+
+BILL TO:
+Acme Corporation
+John Smith (john.smith@acme.com)
+Account ID: CUST-45678
+123 Business Ave
+New York, NY 10001
+
+BILLING PERIOD: November 1, 2025 - November 30, 2025
+
+SUBSCRIPTION CHARGES:
+- Pro Plan (25 users) - $29.99
+- Additional Users (10 users @ $10/user) - $100.00
+- Additional Storage (100 GB @ $5/50GB) - $10.00
+- Advanced Analytics - $15.00
+Subtotal: $154.99
+
+ADD-ON SERVICES:
+- API Calls (5,000 additional) - $25.00
+Subtotal: $25.00
+
+PREVIOUS CREDITS:
+- Referral Credit - ($10.00)
+
+SUBTOTAL: $169.99
+Sales Tax (NY 8.875%): $15.09
+
+TOTAL DUE: $185.08
+
+PAYMENT METHOD: Visa ending in 4242
+Auto-pay enabled: Yes
+Next billing date: December 1, 2025
+
+PAYMENT HISTORY:
+- Oct 1, 2025: $185.08 - Paid
+- Sep 1, 2025: $185.08 - Paid
+- Aug 1, 2025: $175.08 - Paid
+
+QUESTIONS ABOUT THIS INVOICE?
+Contact: billing@advancedcustomerservice.ai
+Phone: +1 (555) 123-4567
+
+PAYMENT OPTIONS:
+- Auto-pay (currently enabled)
+- Online payment portal: https://billing.advancedcustomerservice.ai
+- Mail check to: PO Box 12345, San Francisco, CA 94105
+- Wire transfer (contact billing for details)
+
+Thank you for your business!
+

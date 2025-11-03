@@ -1,0 +1,28 @@
+# FastAPI and Server
+fastapi==0.115.0
+uvicorn[standard]==0.30.6
+
+# LangChain and LangGraph
+langchain>=0.3.0
+langchain-openai>=0.2.0
+langchain-community>=0.3.0
+langchain-chroma>=0.2.0
+langgraph>=0.2.0
+
+# Vector Store
+chromadb>=0.6.0
+
+# OpenAI
+openai>=1.0.0
+
+# Data Models
+pydantic>=2.0.0
+pydantic-settings>=2.0.0
+
+# Configuration
+python-dotenv>=1.0.0
+
+# Utilities
+tiktoken
+python-multipart>=0.0.12
+

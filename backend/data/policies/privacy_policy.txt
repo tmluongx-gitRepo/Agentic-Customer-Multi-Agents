@@ -1,0 +1,136 @@
+PRIVACY POLICY
+
+Last Updated: November 1, 2025
+
+Advanced Customer Service AI ("we," "us," or "our") respects your privacy. This Privacy Policy explains how we collect, use, disclose, and safeguard your information.
+
+1. INFORMATION WE COLLECT
+
+Personal Information:
+- Name, email address, and contact details
+- Billing and payment information
+- Company name and job title
+- IP address and device information
+
+Usage Data:
+- How you interact with our services
+- Features you use most frequently
+- Time spent on different sections
+- Error logs and performance data
+
+Communications:
+- Customer support conversations
+- Feedback and survey responses
+- Email correspondence
+
+2. HOW WE USE YOUR INFORMATION
+
+We use collected information to:
+- Provide and maintain our services
+- Process payments and send billing notifications
+- Respond to customer support requests
+- Send important service updates
+- Improve our products and services
+- Detect and prevent fraud or security issues
+- Comply with legal obligations
+
+3. INFORMATION SHARING
+
+We do NOT sell your personal information. We may share information with:
+
+Service Providers:
+- Cloud hosting providers (AWS, Google Cloud)
+- Payment processors (Stripe, PayPal)
+- Analytics providers (Google Analytics)
+- Customer support tools
+
+Legal Requirements:
+- When required by law or legal process
+- To protect our rights and property
+- To prevent fraud or security threats
+
+Business Transfers:
+- In connection with mergers, acquisitions, or asset sales
+
+4. DATA RETENTION
+
+We retain your information for as long as:
+- Your account is active
+- Needed to provide services
+- Required by law or contractual obligations
+
+After account termination, we retain data for 90 days for recovery purposes, then permanently delete it.
+
+5. DATA SECURITY
+
+We implement industry-standard security measures:
+- Encryption of data in transit (TLS/SSL)
+- Encryption of data at rest (AES-256)
+- Regular security audits and penetration testing
+- Access controls and authentication
+- Employee training on data protection
+
+However, no method of transmission over the internet is 100% secure.
+
+6. YOUR RIGHTS
+
+Depending on your location, you may have the right to:
+- Access your personal information
+- Correct inaccurate data
+- Request deletion of your data
+- Object to processing of your data
+- Export your data in a portable format
+- Withdraw consent at any time
+
+To exercise these rights, contact us at privacy@advancedcustomerservice.ai
+
+7. COOKIES AND TRACKING
+
+We use cookies and similar technologies to:
+- Keep you logged in
+- Remember your preferences
+- Analyze usage patterns
+- Improve user experience
+
+You can control cookies through your browser settings.
+
+8. THIRD-PARTY LINKS
+
+Our services may contain links to third-party websites. We are not responsible for the privacy practices of these external sites.
+
+9. CHILDREN'S PRIVACY
+
+Our services are not directed to children under 13. We do not knowingly collect information from children.
+
+10. INTERNATIONAL DATA TRANSFERS
+
+Your information may be transferred to and processed in countries other than your own. We ensure appropriate safeguards are in place for such transfers.
+
+11. CALIFORNIA PRIVACY RIGHTS (CCPA)
+
+California residents have additional rights under the CCPA:
+- Right to know what personal information is collected
+- Right to know if information is sold or disclosed
+- Right to opt-out of the sale of personal information
+- Right to non-discrimination for exercising privacy rights
+
+12. GDPR COMPLIANCE (FOR EU USERS)
+
+We comply with GDPR requirements:
+- Lawful basis for processing your data
+- Right to data portability
+- Right to be forgotten
+- Right to restrict processing
+- Data Protection Officer: dpo@advancedcustomerservice.ai
+
+13. CHANGES TO THIS PRIVACY POLICY
+
+We may update this policy periodically. We will notify you of significant changes via email or through our services.
+
+14. CONTACT US
+
+For privacy-related questions or concerns:
+Email: privacy@advancedcustomerservice.ai
+Phone: +1 (555) 123-4567
+Address: 123 Tech Street, San Francisco, CA 94105
+

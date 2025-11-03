@@ -1,0 +1,149 @@
+PRICING INFORMATION
+
+Type: Dynamic Document - Updated Monthly
+
+CURRENT PRICING (November 2025)
+
+SUBSCRIPTION PLANS
+
+1. Basic Plan - $9.99/month
+- Up to 5 users
+- 10 GB storage
+- Email support
+- Core features included
+- 99.5% uptime SLA
+- Monthly billing only
+
+2. Pro Plan - $29.99/month ($287.90/year)
+- Up to 25 users
+- 100 GB storage
+- Priority email and chat support
+- Advanced features included
+- 99.9% uptime SLA
+- API access (1,000 calls/day)
+- Custom branding
+- Monthly or annual billing
+- Save 20% with annual billing
+
+3. Enterprise Plan - $99.99/month (Custom pricing for annual)
+- Unlimited users
+- 1 TB storage (expandable)
+- 24/7 phone, email, and chat support
+- All features included
+- 99.99% uptime SLA
+- Unlimited API access
+- Custom branding and white-labeling
+- Dedicated account manager
+- Custom integrations available
+- SSO and advanced security
+- Custom SLA available
+
+ADD-ONS
+
+1. Additional Storage
+- $5.00 per 50 GB/month
+- Available for Pro and Enterprise plans
+- Billed monthly
+
+2. Additional Users
+- Basic Plan: $2.00 per user/month
+- Pro Plan: $10.00 per additional user/month
+- Enterprise: Included in base price
+
+3. API Calls (Pro Plan)
+- Additional 1,000 calls: $5.00/month
+- Unlimited API: $50.00/month
+
+4. Advanced Analytics
+- $15.00/month for Pro plan
+- Included with Enterprise
+
+5. Premium Support
+- $25.00/month for Basic and Pro plans
+- Includes 24/7 phone support
+- Included with Enterprise
+
+PAYMENT TERMS
+
+Billing Cycle:
+- Monthly plans billed on the same date each month
+- Annual plans billed once per year
+- Pro-rated charges for plan upgrades
+- Credits applied for downgrades
+
+Accepted Payment Methods:
+- Visa, Mastercard, American Express, Discover
+- ACH bank transfer (Enterprise only)
+- Wire transfer (Enterprise annual only)
+- PayPal (Basic and Pro plans)
+
+Late Payments:
+- 5-day grace period after due date
+- $15 late fee after grace period
+- Service suspension after 15 days overdue
+- Account termination after 30 days overdue
+
+DISCOUNTS
+
+Annual Discount:
+- 20% off when paying annually (Pro and Enterprise)
+- Example: Pro annual = $287.90 (vs $359.88 monthly)
+
+Volume Discount (Enterprise):
+- 10% off for 50+ users
+- 15% off for 100+ users
+- 20% off for 500+ users
+- Custom pricing for 1,000+ users
+
+Non-Profit Discount:
+- 25% off any plan
+- Must provide proof of 501(c)(3) status
+- Annual verification required
+
+Educational Discount:
+- 30% off for accredited educational institutions
+- Must use .edu email address
+- Annual verification required
+
+TRIAL PERIOD
+
+Free Trial:
+- 14-day free trial for Pro plan
+- No credit card required
+- Full access to Pro features
+- Automatic conversion to paid plan if not canceled
+- One trial per organization
+
+TAX INFORMATION
+
+Sales Tax:
+- Applied based on billing address
+- Rates vary by state/country
+- Tax-exempt organizations must provide certificate
+
+VAT (International):
+- Applied for EU customers
+- Rates vary by country
+- Reverse charge mechanism available for EU businesses
+
+CURRENCY
+
+- Prices listed in USD
+- International customers billed in USD
+- Currency conversion fees may apply
+- Multi-currency support (Enterprise only)
+
+PRICE CHANGES
+
+Notice Period:
+- 30 days notice for price increases
+- Existing customers grandfathered for 90 days
+- Annual plans locked for the subscription period
+
+CONTACT BILLING
+
+Questions about pricing:
+Email: billing@advancedcustomerservice.ai
+Phone: +1 (555) 123-4567
+Hours: Monday-Friday, 9 AM - 6 PM EST
+

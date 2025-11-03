@@ -1,0 +1,67 @@
+TERMS OF SERVICE
+
+Last Updated: November 1, 2025
+
+1. ACCEPTANCE OF TERMS
+By accessing and using our services, you agree to be bound by these Terms of Service and all applicable laws and regulations.
+
+2. SERVICE DESCRIPTION
+We provide cloud-based software solutions for business management. Our services include data storage, analytics, and collaboration tools.
+
+3. USER ACCOUNTS
+- Users must be at least 18 years old to create an account
+- You are responsible for maintaining the confidentiality of your account credentials
+- You must notify us immediately of any unauthorized use of your account
+
+4. SUBSCRIPTION AND PAYMENT
+- Services are provided on a subscription basis
+- Payment is due monthly or annually as selected
+- We accept credit cards and electronic bank transfers
+- Subscription fees are non-refundable except as required by law
+
+5. ACCEPTABLE USE POLICY
+Users may not:
+- Violate any laws or regulations
+- Transmit harmful or malicious code
+- Attempt to gain unauthorized access to our systems
+- Use the service for illegal activities
+- Harass or harm other users
+
+6. INTELLECTUAL PROPERTY
+- All content and software provided through our services are owned by us or our licensors
+- You retain ownership of data you upload to our services
+- We grant you a limited, non-exclusive license to use our services
+
+7. DATA AND PRIVACY
+- We collect and process data as described in our Privacy Policy
+- You are responsible for backing up your data
+- We implement industry-standard security measures
+
+8. SERVICE AVAILABILITY
+- We strive for 99.9% uptime but do not guarantee uninterrupted service
+- Scheduled maintenance will be announced in advance when possible
+- We are not liable for service interruptions beyond our control
+
+9. TERMINATION
+- Either party may terminate the agreement with 30 days notice
+- We may suspend or terminate accounts that violate these terms
+- Upon termination, you will have 30 days to retrieve your data
+
+10. LIMITATION OF LIABILITY
+- Our liability is limited to the amount paid for services in the past 12 months
+- We are not liable for indirect, incidental, or consequential damages
+- Some jurisdictions do not allow limitation of liability
+
+11. MODIFICATIONS TO TERMS
+- We reserve the right to modify these terms at any time
+- Significant changes will be communicated via email
+- Continued use of services constitutes acceptance of modified terms
+
+12. GOVERNING LAW
+These terms are governed by the laws of the State of Delaware, United States.
+
+13. CONTACT INFORMATION
+For questions about these terms, contact us at:
+Email: legal@advancedcustomerservice.ai
+Address: 123 Tech Street, San Francisco, CA 94105
+

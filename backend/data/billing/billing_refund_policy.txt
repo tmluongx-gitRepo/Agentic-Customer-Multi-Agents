@@ -1,0 +1,55 @@
+BILLING POLICY - REFUNDS AND RETURNS
+
+Type: Static Policy Document
+
+REFUND POLICY
+
+1. General Refund Terms
+- All refund requests must be submitted within 30 days of the billing date
+- Refunds are processed within 5-7 business days
+- Refunds are issued to the original payment method
+- Processing fees (3.5%) are non-refundable
+
+2. Eligibility for Refunds
+You may be eligible for a refund if:
+- The service did not meet the specifications advertised
+- Technical issues prevented service use for more than 48 consecutive hours
+- You cancel within the 14-day trial period
+- Duplicate charges occurred
+
+3. Non-Refundable Items
+- Setup fees and installation charges
+- Custom development work already completed
+- Third-party services and add-ons
+- Promotional discounts and credits
+- Subscription fees after 30 days
+
+4. Partial Refunds
+Partial refunds may be issued for:
+- Pro-rated unused time if canceling mid-cycle
+- Service degradation affecting specific features
+- Unused storage or user licenses
+
+5. Refund Process
+To request a refund:
+1. Contact billing support at billing@advancedcustomerservice.ai
+2. Provide your account ID and invoice number
+3. Explain the reason for the refund request
+4. Wait for review (typically 2-3 business days)
+5. Receive confirmation and refund timeline
+
+6. Chargebacks
+- Chargebacks may result in account suspension
+- Please contact us before initiating a chargeback
+- We will work with you to resolve billing disputes
+
+7. Annual Subscriptions
+- Annual subscriptions are refundable within 30 days of purchase
+- After 30 days, pro-rated refunds may be available at our discretion
+- Cancellation of annual plans does not guarantee automatic refunds
+
+8. Upgrade/Downgrade Refunds
+- Downgrades are pro-rated for the remaining billing cycle
+- Upgrades are charged immediately with credit for unused time
+- Changes take effect at the start of the next billing cycle
+

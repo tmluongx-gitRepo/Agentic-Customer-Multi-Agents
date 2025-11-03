@@ -1,0 +1,179 @@
+GETTING STARTED GUIDE
+
+Type: Documentation
+
+QUICK START GUIDE FOR NEW USERS
+
+Welcome to Advanced Customer Service AI! This guide will help you get started quickly.
+
+1. ACCOUNT SETUP (5 minutes)
+
+After signing up, complete these steps:
+- Verify your email address
+- Set up your organization profile
+- Invite team members
+- Configure basic settings
+
+Email Verification:
+- Check your inbox for verification email
+- Click the verification link
+- If not received, check spam folder
+- Resend verification from account settings
+
+Organization Profile:
+- Navigate to Settings > Organization
+- Enter company name and details
+- Upload company logo (recommended: 200x200px PNG)
+- Set default language and timezone
+
+Invite Team Members:
+- Go to Team > Invite Members
+- Enter email addresses (comma-separated for bulk)
+- Assign roles: Admin, User, or Viewer
+- Customize invitation message
+- Invitations expire in 7 days
+
+2. DASHBOARD OVERVIEW
+
+Main Dashboard Components:
+- Activity Feed: Recent actions and updates
+- Quick Actions: Common tasks accessible in one click
+- Statistics: Key metrics and performance indicators
+- Notifications: System alerts and messages
+
+Navigation Menu:
+- Dashboard: Overview and statistics
+- Projects: Manage your projects
+- Team: User management and permissions
+- Reports: Analytics and insights
+- Settings: System configuration
+- Help: Documentation and support
+
+3. CREATING YOUR FIRST PROJECT
+
+Step-by-Step:
+1. Click "New Project" button (top right)
+2. Enter project name and description
+3. Select project template (optional)
+4. Set project visibility (Private/Team/Organization)
+5. Add team members to the project
+6. Click "Create Project"
+
+Project Templates Available:
+- Marketing Campaign
+- Product Launch
+- Customer Support Initiative
+- Internal Operations
+- Blank Project (start from scratch)
+
+4. BASIC FEATURES
+
+File Management:
+- Upload files: Drag and drop or click upload
+- Supported formats: All major file types
+- Maximum file size: 100 MB (Pro), 500 MB (Enterprise)
+- Organize with folders and tags
+- Share files with team or external users
+
+Collaboration Tools:
+- Real-time co-editing of documents
+- Comments and annotations
+- @mentions to notify team members
+- Activity tracking and version history
+- Task assignments and due dates
+
+5. KEYBOARD SHORTCUTS
+
+Global Shortcuts:
+- Ctrl/Cmd + N: New project
+- Ctrl/Cmd + F: Search
+- Ctrl/Cmd + K: Command palette
+- Ctrl/Cmd + /: Show all shortcuts
+- Esc: Close current modal/dialog
+
+Navigation:
+- G then D: Go to Dashboard
+- G then P: Go to Projects
+- G then T: Go to Team
+- G then S: Go to Settings
+
+6. MOBILE APP
+
+Available on:
+- iOS (iPhone and iPad) - Download from App Store
+- Android - Download from Google Play
+- Features: Full access to all features on mobile
+- Offline mode: Access recent files when offline
+- Push notifications: Stay updated on the go
+
+7. INTEGRATIONS
+
+Popular Integrations:
+- Slack: Notifications and commands
+- Google Workspace: Calendar and Drive sync
+- Microsoft 365: Outlook and OneDrive
+- Zapier: Connect to 1000+ apps
+- GitHub: Code repository integration
+
+Setting Up Integrations:
+1. Go to Settings > Integrations
+2. Find the integration you want
+3. Click "Connect"
+4. Authorize access
+5. Configure integration settings
+
+8. GETTING HELP
+
+Documentation:
+- Help Center: help.advancedcustomerservice.ai
+- Video Tutorials: Available in the app
+- API Documentation: api.advancedcustomerservice.ai
+- Community Forum: community.advancedcustomerservice.ai
+
+Contact Support:
+- In-app chat: Click the help icon (bottom right)
+- Email: support@advancedcustomerservice.ai
+- Phone: +1 (555) 123-4567 (Enterprise customers)
+- Response time: 24 hours (Email), 1 hour (Chat - Pro/Enterprise)
+
+9. BEST PRACTICES
+
+Security:
+- Enable two-factor authentication
+- Use strong, unique passwords
+- Review connected devices regularly
+- Don't share your login credentials
+- Log out from shared computers
+
+Organization:
+- Use consistent naming conventions
+- Tag important items for quick access
+- Archive completed projects
+- Set up regular backups
+- Document your workflows
+
+Performance:
+- Close unused tabs/projects
+- Clear browser cache if experiencing issues
+- Use the mobile app for better mobile performance
+- Optimize uploaded images before uploading
+- Limit real-time collaborators to 10 or fewer
+
+10. NEXT STEPS
+
+Advanced Features to Explore:
+- Custom workflows and automation
+- Advanced reporting and analytics
+- API integration for custom solutions
+- White-labeling (Enterprise only)
+- Custom fields and templates
+
+Training Resources:
+- Weekly webinars (register in the app)
+- One-on-one onboarding sessions (Enterprise)
+- Self-paced video courses
+- Certification program (coming soon)
+
+WELCOME ABOARD!
+If you have any questions, our support team is here to help 24/7.
+

@@ -354,5 +354,6 @@ For detailed setup instructions, see [QUICKSTART.md](./QUICKSTART.md)
 
 For integration details, see [frontend/INTEGRATION.md](./frontend/INTEGRATION.md)
 
-#   A g e n t i c - C u s t o m e r - M u l t i - A g e n t s  
+#   A g e n t i c - C u s t o m e r - M u l t i - A g e n t s 
+ 
  
